@@ -11,6 +11,9 @@
 
 ---
 
+<img width="1340" height="897" alt="image" src="https://github.com/user-attachments/assets/9d81eaac-9b97-4eb6-af2a-9a915fdf1d63" />
+
+
 ## 📌 Project Overview
 
 The **Restaurant Data Cleaning Project** focuses on cleaning, preprocessing, and transforming raw restaurant datasets into structured and meaningful information.
