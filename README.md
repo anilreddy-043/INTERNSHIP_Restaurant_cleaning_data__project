@@ -1,6 +1,13 @@
-🍽️ Restaurant Data Cleaning & Analysis Project
+ Restaurant Data Cleaning & Analysis Project
 
 Transforming Raw Restaurant Data into Meaningful Insights Using Python
+
+
+
+
+
+
+
 
 📌 Project Overview
 
@@ -10,6 +17,48 @@ The primary objective is to improve data quality by identifying missing values, 
 
 This project demonstrates practical data cleaning and preprocessing techniques using Python and its popular data science libraries.
 
+🎯 Project Objectives
 
+Clean and preprocess raw restaurant datasets.
 
+Identify and handle missing values.
 
+Detect and manage duplicate records.
+
+Standardize inconsistent categorical values.
+
+Correct data types and formatting issues.
+
+Improve overall dataset quality.
+
+Prepare clean data for Exploratory Data Analysis (EDA).
+
+🛠️ Technologies Used
+
+Technology
+
+Purpose
+
+Python
+
+Programming Language
+
+Pandas
+
+Data Manipulation and Cleaning
+
+NumPy
+
+Numerical Operations
+
+Matplotlib
+
+Data Visualization
+
+Seaborn
+
+Statistical Visualization
+
+Jupyter Notebook
+
+Development Environ
